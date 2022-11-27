@@ -1,1 +1,1 @@
-console log(" ATUALIZAÇÃO DO JAVA SCRIPT")
+console.log(" ATUALIZAÇÃO DO JAVA SCRIPT")
